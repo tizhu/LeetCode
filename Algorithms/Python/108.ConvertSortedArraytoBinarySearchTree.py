@@ -19,7 +19,7 @@ class Solution:
 
 
 
-## solution 2
+## solution 2##
 class Solution:
     def contructTree(self,nums, left, right) -> TreeNode:
         if left>right:return None
